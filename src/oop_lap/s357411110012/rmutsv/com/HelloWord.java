@@ -5,8 +5,8 @@ public class HelloWord {
 public static void main(String[] args) {
   System.out.println("Hello World,I'am JERN");
   System.out.println("sirintra choatthipipatworakul");
-  System.out.println("Information System");
-  System.out.println("MT.RMUTSV");
+  System.out.println("Information System,MT RMUTSV");
+
 
 
 
