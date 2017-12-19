@@ -35,5 +35,6 @@ public class InputDataToArray {
         }
         return num;
         ////////
+        /////////
     }
 }//class
