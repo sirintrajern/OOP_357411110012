@@ -1,10 +1,15 @@
 package OOP_LAB4.OOP_LAB5;
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.Collections;
+import  java.util.Scanner;
 //1. input Data from user
 //2. find summation of data in array
 //3. find average value of Data in array
 //4. find maximum value of Data in array
 //5. find minimum value of Data in array
-import  java.util.Scanner;
+
+
 public class InputDataToArray {
     private static final int MAX =10;
     public static void main(String[] args) {
