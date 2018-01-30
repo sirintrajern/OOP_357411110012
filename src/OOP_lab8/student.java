@@ -10,8 +10,8 @@ public class student extends Person {
     private String major;
 
 
-    public student(String personID, String name, String gender, int age,String studentID,String major) {
-        super(personID, name, gender, age);
+    public student(String personID, String name, String gender, int age, String studentID, String major) {
+        super(personID, name, gender,age);
         this.studentID = studentID;
         this.major = major;
     }
