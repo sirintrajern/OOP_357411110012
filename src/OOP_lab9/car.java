@@ -11,17 +11,13 @@ public class car {
         this.engine = engine;
     }
 
-    @Override
-    public String toString() {
-        return "Car{" +
+    @java.lang.Override
+    public java.lang.String toString() {
+        return "car{" +
                 "brand='" + brand + '\'' +
                 ", color='" + color + '\'' +
                 ", engine=" + engine +
                 '}';
-    }
-
-    public String getBrand() {
-        return brand;
     }
 
     public void setBrand(String brand) {
